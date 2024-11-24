@@ -2,7 +2,7 @@
 
 require_once "Engenharia.class.php";
 require_once "Medicina.class.php";
-require_once "Fisica.class.php";
+require_once "Nutricao.class.php";
 
 $cursos = [
     new Engenharia("Civil"),
